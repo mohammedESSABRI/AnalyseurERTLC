@@ -1,5 +1,5 @@
 # AnalyseurERTLC
-# créé en janvier 2015 et publié en janvier 2017
+# réalisé en janvier 2015 et publié en janvier 2017
 Analyseur lexical et syntaxique des expressions régulières sur un alphabet A={a,b}
-crée dans le cadre du module théorie des langagues et compilation lors de mes études en cycle licence
+réalisé dans le cadre du module théorie des langagues et compilation lors de mes études en cycle licence
 
