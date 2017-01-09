@@ -6,6 +6,7 @@ téchnologies utilisées:
 - DevC++: editeur du code source .
 - Flex: phase lexical. 
 - Bison: phase syntaxique.
+
 Analyseur lexical et syntaxique des expressions régulières sur un alphabet A={a,b}
 réalisé dans le cadre du module théorie des langagues et compilation lors de mes études en cycle licence.
 
