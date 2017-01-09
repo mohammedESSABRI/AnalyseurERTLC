@@ -7,6 +7,6 @@ téchnologies utilisées:
 - Flex: phase lexical. 
 - Bison: phase syntaxique.
 
-Analyseur lexical et syntaxique des expressions régulières sur un alphabet A={a,b}
+Analyseur des erreurs lexicals et syntaxiques des commandes sur des expressions régulières sur un alphabet A={a,b}
 réalisé dans le cadre du module théorie des langagues et compilation lors de mes études en cycle licence.
 
